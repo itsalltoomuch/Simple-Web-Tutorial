@@ -1,0 +1,23 @@
+.container{
+    color: white;
+    position: relative;
+    display: flex;
+    text-align: left;
+}
+.parent-container{
+    color: black;
+}
+.child-container{
+    background-color: rgba(240, 248, 255, 0.412);
+    margin: 20px 20px;
+    padding: 20px;
+}
+.base-container{
+    margin-bottom: 10px;
+}
+.height-container{
+    margin-bottom: 20px;
+}
+.btnSubmit{
+    color: black;
+}
