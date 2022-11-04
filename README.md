@@ -14,7 +14,7 @@ The mile is a unit of distance in the US customary system or the Imperial system
 ### How many kilometers in a mile?
 One mile equals 1.609344 km. Hence, 1 km is equal to 0.621371 mi.
 
-To convert kilometers into miles, you multiply the distance value by 0.621371 because 1 km equals 0.621371 mi. The following is the formula:
+To convert [kilometers into miles](https://www.calculatorful.com/kilometers-to-miles), you multiply the distance value by 0.621371 because 1 km equals 0.621371 mi. The following is the formula:
 
 Miles = kilometers × 0.621371
 
